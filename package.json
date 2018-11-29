@@ -1,7 +1,7 @@
 {
-  "name": "angularjs-datepicker",
+  "name": "angularjs-datepicker-ex",
   "version": "2.1.23",
-  "description": "A datepicker directive for angularjs.",
+  "description": "Forked of a datepicker directive for angularjs, includes some pull requests not yet merged into the original.",
   "homepage": "http://720kb.github.io/angular-datepicker",
   "keywords": [
     "date",
@@ -19,7 +19,7 @@
   "main": "dist/angular-datepicker.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/720kb/angular-datepicker.git"
+    "url": "https://github.com/adrianhara/angular-datepicker.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -46,6 +46,11 @@
       "name": "Dario Andrei",
       "email": "wouldgo84@gmail.com",
       "url": "https://github.com/wouldgo"
+    },
+    {
+      "name": "Adrian Hara",
+      "email": "adrian.hara@infiniswiss.com",
+      "url": "https://github.com/adrianhara"
     }
   ]
 }

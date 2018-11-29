@@ -1,10 +1,11 @@
 {
-  "name": "angularjs-datepicker",
+  "name": "angularjs-datepicker-ex",
   "version": "2.1.23",
-  "description": "A datepicker directive for angularjs.",
+  "description": "Forked of a datepicker directive for angularjs, includes some pull requests not yet merged into the original.",
   "authors": [
     "Filippo Oretti <filippo.oretti@gmail.com",
-    "Dario Andrei <wouldgo84@gmail.com>"
+    "Dario Andrei <wouldgo84@gmail.com>",
+    "Adrian Hara <adrian.hara@infiniswiss.com>"
   ],
   "keywords": [
     "date",
